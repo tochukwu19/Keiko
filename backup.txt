@@ -1,0 +1,170 @@
+  <section class="variable slider">
+      <div id="contanesque">
+        <div class="row">
+          <div class="col s12 m7">
+            <div class="card" style="width: 300px; height: 450px;>
+              <div class="card-image"> <img src="images\gettyimages-1041253434-2048x2048.jpg"
+                  style="width: 300px; height: 250px;"> <div class=" card-title"><b>Hazard faces new opposition in
+                  Spain</b></div>
+              <div class="card-content">
+                <p>Lorem ipsum dummy text Lorem ipsum dummy text Lorem ipsum dummy text Lorem ipsum dummy text Lorem
+                  ipsum
+                  dummy text</p>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col s12 m7">
+            <div class="card" style="width: 300px; height: 450px;">
+              <div class="card-image"> <img src="skrr.jpg" style="width: 300px; height: 250px;"> <span class="
+                  card-title">Title 1</span> </div>
+              <div class="card-content">
+                <p>Lorem ipsum dummy text Lorem ipsum dummy text Lorem ipsum dummy text Lorem ipsum dummy text Lorem
+                  ipsum
+                  dummy text</p>
+              </div>
+            </div>
+
+          </div>
+
+
+
+          <div class="col s12 m7">
+            <div class="card" style="width: 300px; height: 450px;">
+              <div class="card-image"> <img src="skrr.jpg" style="width: 300px; height: 250px;"> <span class="
+                  card-title">Title 1</span> </div>
+              <div class="card-content">
+                <p>Lorem ipsum dummy text Lorem ipsum dummy text Lorem ipsum dummy text Lorem ipsum dummy text Lorem
+                  ipsum
+                  dummy text</p>
+              </div>
+            </div>
+          </div>
+
+
+
+          <div class="col s12 m7">
+            <div class="card" style="width: 300px; height: 450px;">
+              <div class="card-image"> <img src="skrr.jpg" style="width: 300px; height: 250px;"> <span class="
+                  card-title">Title 1</span> </div>
+              <div class="card-content">
+                <p>Lorem ipsum dummy text Lorem ipsum dummy text Lorem ipsum dummy text Lorem ipsum dummy text Lorem
+                  ipsum
+                  dummy text</p>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col s12 m7">
+            <div class="card" style="width: 300px; height: 450px;">
+              <div class="card-image"> <img src="skrr.jpg" style="width: 300px; height: 250px;"> <span class="
+                  card-title">Title 1</span> </div>
+              <div class="card-content">
+                <p>Lorem ipsum dummy text Lorem ipsum dummy text Lorem ipsum dummy text Lorem ipsum dummy text Lorem
+                  ipsum
+                  dummy text</p>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col s12 m7">
+            <div class="card" style="width: 300px; height: 450px;">
+              <div class="card-image"> <img src="skrr.jpg" style="width: 300px; height: 250px;"> <span class="
+                  card-title">Title 1</span> </div>
+              <div class="card-content">
+                <p>Lorem ipsum dummy text Lorem ipsum dummy text Lorem ipsum dummy text Lorem ipsum dummy text Lorem
+                  ipsum
+                  dummy text</p>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col s12 m7">
+            <div class="card" style="width: 300px; height: 450px;">
+              <div class="card-image"> <img src="skrr.jpg" style="width: 300px; height: 250px;"> <span class="
+                  card-title">Title 1</span> </div>
+              <div class="card-content">
+                <p>Lorem ipsum dummy text Lorem ipsum dummy text Lorem ipsum dummy text Lorem ipsum dummy text Lorem
+                  ipsum
+                  dummy text</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+        <div>
+      <div class="card1">
+        <img src="skrr.jpg" alt="Avatar" >
+        <div class="container1">
+          <h4><b>John Doe</b></h4>
+          <p>Architect & Engineer</p>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <div class="card1">
+        <img src="skrr.jpg" alt="Avatar" >
+        <div class="container1">
+          <h4><b>John Doe</b></h4>
+          <p>Architect & Engineer</p>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <div class="card1">
+        <img src="skrr.jpg" alt="Avatar" >
+        <div class="container1">
+          <h4><b>John Doe</b></h4>
+          <p>Architect & Engineer</p>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <div class="card1">
+        <img src="skrr.jpg" alt="Avatar" >
+        <div class="container1">
+          <h4><b>John Doe</b></h4>
+          <p>Architect & Engineer</p>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <div class="card1">
+        <img src="skrr.jpg" alt="Avatar" >
+        <div class="container1">
+          <h4><b>John Doe</b></h4>
+          <p>Architect & Engineer</p>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <div class="card1">
+        <img src="skrr.jpg" alt="Avatar" >
+        <div class="container1">
+          <h4><b>John Doe</b></h4>
+          <p>Architect & Engineer</p>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <div class="card1">
+        <img src="skrr.jpg" alt="Avatar" >
+        <div class="container1">
+          <h4><b>John Doe</b></h4>
+          <p>Architect & Engineer</p>
+        </div>
+      </div>
+    </div>
